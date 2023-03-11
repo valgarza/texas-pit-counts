@@ -67,12 +67,12 @@ Most of the data collected was transcribed as was printed in the original report
 | modified | 2023-03-10 | 
 | publisher | Valentine Garza, University of Washington Seattle | 
 | contactPoint | Valentine Garza valgarza@uw.edu | 
-| described by | --- | 
+| described by | [/texas-pit-counts/README.md](https://github.com/valgarza/texas-pit-counts/blob/main/README.md) | 
 | accessURL | --- |
 | downloadURL | --- |
 | language | en-us | 
 | rights | This data is freely available to the public. | 
-| references | https://www.thn.org/wp-content/uploads/2020/07/Final-Combined-Report-1.pdf, https://www.census.gov/quickfacts/fact/table/US/PST045222, https://www.thn.org/wp-content/uploads/2020/03/Cameron-County-Homeless-Coalition.pdf, https://www.sarahomeless.org/uploads/1/4/0/6/140635251/pit-2020-final-pdf.pdf, https://www.austinecho.org/wp-content/uploads/2020/10/PIT-2020-Source-Document.-Revised-to-correct-Table-4-and-Figure-13.10.21.20.pdf |
+| references | httpsd://www.thn.org/wp-content/uploads/2020/07/Final-Combined-Report-1.pdf, https://www.census.gov/quickfacts/fact/table/US/PST045222, https://www.thn.org/wp-content/uploads/2020/03/Cameron-County-Homeless-Coalition.pdf, https://www.sarahomeless.org/uploads/1/4/0/6/140635251/pit-2020-final-pdf.pdf, https://www.austinecho.org/wp-content/uploads/2020/10/PIT-2020-Source-Document.-Revised-to-correct-Table-4-and-Figure-13.10.21.20.pdf |
 
 ## Security 
 
