@@ -1,0 +1,6 @@
+regionName,homelessTotal,age_under18,age_18to24,age_over24,race_white,race_black,race_asian,race_AIAN,race_pacificIslander,race_otherMult,ethnicity_His,ethnicity_nonHis,gender_male,gender_female,gender_trans,veteranStatus
+Bexar County,2932,505,185,2242,2097,714,16,34,3,68,1368,1564,1746,1175,11,206
+Cameron County,489,124,37,326,437,27,4,19,1,1,411,83,271,188,0,13
+Harris/Fort Bend/Montgomery,3974,556,238,3180,1578,2217,20,52,null,107,560,null,3219,null,10,267
+Travis County,2506,471,188,1847,1531,915,13,28,10,9,747,1759,1594,899,13,253
+Texas BoS,9189,1287,596,7315,6411,2294,77,152,33,231,3293,5905,5712,3460,26,1110
