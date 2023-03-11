@@ -18,7 +18,7 @@ The data is available in a .csv.
 
 Files are named for maximum clarity. The following format should be used:
 
-> *dyear*_pitcounts_*datatype*
+> year_pitcounts_datatype
 
 As this dataset only contains data from 2020, that is all that will be available. There are two types of data aggregated for each year: *summary* and *demographics*. Thus there are two .csv files for 2020 for each type. 
 
